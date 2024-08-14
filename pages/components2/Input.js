@@ -1,4 +1,4 @@
-import styles from "../components2/Input.module.css";
+import styles from "./Input.module.css";
 
 export default function Input(props) {
   const { placeholder } = props;

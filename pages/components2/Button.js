@@ -1,4 +1,4 @@
-import styles from "../components2/Button.module.css";
+import styles from "./Button.module.css";
 
 const Button = () => {
   return <button className={styles.button}>Subscribe</button>;
