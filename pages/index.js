@@ -1,4 +1,4 @@
-import Background from "./components2/Background";
+import Background from "../components2/Background";
 
 export default function Home() {
   return (
