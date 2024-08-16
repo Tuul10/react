@@ -35,10 +35,6 @@ const data = [
   },
 ];
 
-const List = (props) => {
-  const { name } = props;
-  return <li>{name}</li>;
-};
 const Para = (props) => {
   const { name } = props;
   return <h3>{name}</h3>;
